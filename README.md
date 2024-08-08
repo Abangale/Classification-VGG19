@@ -1,4 +1,5 @@
 # VGG-19 Image Classification for lung disease
+![]([https://github.com/rabbyfitriana/college-things/blob/main/assets/college-things-round.png](https://github.com/Abangale/Classification-VGG19/blob/main/Image/Banner.png))
 This repository contains Notebook scripts for training and evaluating an image classification model `VGG19 Model.ipynb` based on the VGG-19 architecture using Tensorflow. The trained model is capable of classifying images into three categories: covid-19, normal, and pneumonia. For implementing, there is an API script that use the trained model from notebook and allows users to classify multiple images as either covid-19, normal, or pneumonia.
 
 ## Getting started
